@@ -4,11 +4,17 @@
 
 
 🚀 Features :
+
    🎮 Drag and Drop functionality for puzzle pieces
+   
    🧩 3x3 puzzle grid
+   
    🔀 Puzzle pieces are shuffled on page load
+   
    🔄 Reset button to restart the puzzle
+   
    🌅 Stylish UI with custom background and shadows
+   
 
 
 🧠 How It Works :
